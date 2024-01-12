@@ -1,19 +1,19 @@
 
-# Residential Energy Consumption Pattern Analysis Using Clustering Techniques
+# Household Energy Consumption: Analysis of Usage Behaviour with K-Means and Hierarchical Clustering Techniques
 
 ## Overview
-This project explores patterns in household electricity consumption to inform sustainable energy practices, utilizing clustering techniques on power usage data of a residential building in Sceaux, France.
+This project explored patterns in household electricity consumption to inform sustainable energy practices, using K-Means and Agglomerative Hierarchical Clustering techniques on an energy usage dataset compiled from observing a residential building in Sceaux, France.
 
 ## Research Question
-Investigates the underlying patterns in electricity consumption and their relations to user behaviors, temporal trends, and appliance-specific usage.
+Investigates the underlying patterns in electricity consumption and their relations to user behaviours, temporal trends, and appliance-specific usage.
 
 ## Objectives
 - Apply K-Means and Agglomerative Hierarchical Clustering to uncover hidden patterns in electricity consumption.
-- Compare results of these clustering techniques and understand their implications.
-- Correlate identified patterns with user behaviors, appliance usage, and sustainability practices.
+- Compare the results of these clustering techniques and understand their implications.
+- Correlate identified patterns with user behaviours, appliance usage, and sustainability practices.
 
 ## Dataset
-Sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption), the dataset comprises over 2 million measurements from a residential building in Sceaux, France.
+Sourced from the UCI Machine Learning Repository, the dataset comprises over 2 million measurements from a residential building in Sceaux, France.
 
 ## Data Attributes
 - Date and Time of consumption
@@ -34,8 +34,5 @@ Sourced from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/d
 
 ## Findings
 - Five distinct clusters representing different consumption patterns were identified.
-- Key insights into the impact of user behavior and appliance usage on energy consumption.
+- Key insights into the impact of user behaviour and appliance usage on energy consumption.
 - Potential for tailored sustainability measures based on consumption patterns.
-
-## Usage
-Can be utilized by researchers, energy companies, and policymakers to understand and optimize household energy consumption patterns for greater sustainability.
