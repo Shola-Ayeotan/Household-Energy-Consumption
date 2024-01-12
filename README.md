@@ -5,7 +5,7 @@
 This project explored patterns in household electricity consumption to inform sustainable energy practices, using K-Means and Agglomerative Hierarchical Clustering techniques on an energy usage dataset compiled from observing a residential building in Sceaux, France.
 
 ## Research Question
-Investigates the underlying patterns in electricity consumption and their relations to user behaviours, temporal trends, and appliance-specific usage.
+What are the underlying patterns in electricity consumption and their relations to user behaviours, temporal trends, and appliance-specific usage?
 
 ## Objectives
 - Apply K-Means and Agglomerative Hierarchical Clustering to uncover hidden patterns in electricity consumption.
