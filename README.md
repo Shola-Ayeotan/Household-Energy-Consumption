@@ -1,5 +1,5 @@
 
-# Household Energy Consumption: Analysis of Usage Behaviour with K-Means and Hierarchical Clustering Techniques
+# Analysis of Household Energy Consumption using K-Means and Hierarchical Clustering Techniques
 
 ## Overview
 This project explored patterns in household electricity consumption to inform sustainable energy practices, using K-Means and Agglomerative Hierarchical Clustering techniques on an energy usage dataset compiled from observing a residential building in Sceaux, France.
