@@ -23,7 +23,7 @@ Sourced from the UCI Machine Learning Repository, the dataset comprises over 2 m
 - Sub-metering for various appliances
 
 ## Methodology
-- Data Preprocessing: Cleaning and handling missing values.
+- Data Preprocessing
 - Exploratory Data Analysis: Visualizing consumption patterns.
 - Clustering Analysis: Employing K-Means and Hierarchical Clustering.
 - Evaluation and Comparison: Using metrics like Silhouette Score and Davies-Bouldin Index.
